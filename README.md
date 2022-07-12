@@ -5,8 +5,7 @@ Component for react-native projects to evaluate NPS or select a grade (number) f
 
 ## Result
 
-Insira um gif ou um link de alguma demonstração
-
+![Logo](https://github.com/eduardofinotti/react-native-avaliation-rating/raw/master/example.png)
 
 ## Install
 
